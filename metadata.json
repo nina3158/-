@@ -1,0 +1,6 @@
+{
+  "name": "小学生数学知识点提前学",
+  "description": "专为小学生和家长设计的数学知识提前学平台，涵盖数与代数、图形与几何、统计与概率、综合与实践四大核心体系，助力轻松预习和掌握240个小学数学核心知识点。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
